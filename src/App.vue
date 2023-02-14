@@ -24,4 +24,7 @@ export default {
   font-family: "Nunito Sans", sans-serif;
   text-decoration: none;
 }
+body {
+  color: #121212;
+}
 </style>
